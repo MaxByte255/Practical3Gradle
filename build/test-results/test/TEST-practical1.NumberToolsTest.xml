@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practical1.NumberToolsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-14T09:02:20.864Z" hostname="MEWINDOWSLAPTOP" time="0.04">
+  <properties/>
+  <testcase name="testParse" classname="practical1.NumberToolsTest" time="0.01"/>
+  <testcase name="testComputeStatistic" classname="practical1.NumberToolsTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
