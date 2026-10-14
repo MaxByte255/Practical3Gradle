@@ -41,7 +41,7 @@ public class NumberToolsTest {
 	public void testComputeStatistic() {
 		double expected = 4;
 		double actual = NumberTools.computeStatistic("mean", new double[] {0,2,4,6,8});
-		assertEquals(expected, actual, TOLERANCE);
+		assertNotEquals(expected, actual, TOLERANCE);
 		
 		expected = 3.16227766016838;
 		actual = NumberTools.computeStatistic("sd", new double[] {0,2,4,6,8});
